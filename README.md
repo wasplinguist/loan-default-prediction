@@ -27,7 +27,7 @@ scripts/go/go-linux-ubuntu.sh
 # 3. Powershell 또는 Command Prompt에서 Go 스크립트를 실행합니다.
 .\scripts\go\go-windows.bat
 # 참고: 만약 HTTPSConnectionPool read timed out 에러가 발생한다면, poetry 설치가 성공할 때까지 몇 번 더 실행해 보세요.
-
+```
 
 ## Docker 런타임 설치 및 설정
 
