@@ -49,7 +49,6 @@ Colima는 Docker Desktop의 라이선스가 필요 없는 Docker 런타임입니
 - [PyCharm 설정 방법](https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html#existing-environment)
 - [VS Code 설정 방법](https://code.visualstudio.com/docs/python/environments)
 
----
 
 ## 시작하기 (Getting started)
 
